@@ -14,7 +14,7 @@ input.onGesture(Gesture.Shake, () =>  {
     let randomNumber = randint(0, 2)
     if (randomNumber == 2) {
         basic.showString("YES")
-    } else if (randomNumber == 1) {
+    } else if (randomNumber == 5) {
         basic.showString("NO")
     } else {
         basic.showString("I DON'T KNOW")

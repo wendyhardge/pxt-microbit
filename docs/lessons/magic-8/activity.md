@@ -1,4 +1,4 @@
-# magic 8 activity
+# magic 8 activity 
 
 Welcome! This activity will help you create a magic 8 ball on the @boardname@. Let's get started!
 
